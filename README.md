@@ -29,7 +29,6 @@
 <a href="https://github.com/tt-viic/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021567-fe03b1a6-1800-4d6a-9dea-357dc67d00b9.png" alt="viic-gith" height="30" width="30" /></a>
 ⠀
 <a href="https://open.spotify.com/user/216azmq5llxlo3zsmhnkwnodi?si=ba3112ac13374edb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021583-67ec0129-6e6c-4f42-b193-2b07f34ee1f7.png" alt="viic-spoty" height="30" width="30" /></a>
-<a href="https://open.spotify.com/user/216azmq5llxlo3zsmhnkwnodi?si=ba3112ac13374edb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137025896-fed72110-0709-4ea9-9b6a-c3ef0b542806.png" alt="viic-spoty-banner" height="30" width="130" /></a>
 </p>
 <br>
 
