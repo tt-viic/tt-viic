@@ -33,4 +33,4 @@
 </p>
 <br>
 
-<p align = "center" style = "color: cyan">viic <3⠀⠀© 2021</p>
+<p align = "center" style = "color: cyan">© 2021⠀⠀viic <3</p>
