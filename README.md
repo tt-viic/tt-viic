@@ -1,16 +1,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tt-viic&label=Profile%20views&color=7a93c4&style=flat" alt="tt-viic" /> </p>
 <hr>
 
+
+
 <h1 align = "center"> <img src="https://user-images.githubusercontent.com/78870476/137008700-2fe715d8-74a8-4a14-903a-b99ae14350f2.gif" alt="viic" />
  
  
 
   
+<h1 align = "center">statics</h1>
+ 
+⠀
+ 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact" alt="tt-viic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" /></p>
+<hr>
+ 
   
   
   
 <h1 align = "center">social networks</h1>
 <br>
+ ⠀
 <p align = "center">
 <a href="https://discord.gg/VGFF7gZHK2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137012074-f05e771b-5b39-4252-9687-2f53991f86e8.png" alt="viic-disc" height="30" width="30" /></a>
 ⠀
@@ -32,4 +44,7 @@
 </p>
 <br>
 
+ ⠀
+ ⠀
+ ⠀
 <p align = "center" style = "color: cyan">© 2021⠀⠀viic <3</p>
