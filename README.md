@@ -6,18 +6,21 @@
 <h1 align = "center"> <img src="https://user-images.githubusercontent.com/78870476/137008700-2fe715d8-74a8-4a14-903a-b99ae14350f2.gif" alt="viic" />
  
  
+<h1 align = "center">about me</h1>
+ 
+My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.
+I am currently studying hardly pentesting, C++ and Golang.
+I would be really enthusiastic if you would like me to work in any of your projects, to contact me send me an e-mail to viic@tutanota.com!
 
   
 <h1 align = "center">statics</h1>
  
-⠀
- 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact" alt="tt-viic" /></p>
+<p><img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact" alt="tt-viic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" /></p>
+<p>&nbsp;<img align= "center" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" /></p>
 <hr>
  
-  
+
   
   
 <h1 align = "center">social networks</h1>
@@ -47,4 +50,4 @@
  ⠀
  ⠀
  ⠀
-<p align = "center" style = "color: cyan">© 2021⠀⠀viic <3</p>
+<p align = "center">© 2021⠀⠀viic <3</p>
