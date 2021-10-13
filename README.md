@@ -7,9 +7,11 @@
  
  
 <h1 align = "center">about me</h1>
- 
+
 My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.
+
 I am currently studying hardly pentesting, C++ and Golang.
+
 I would be really enthusiastic if you would like me to work in any of your projects, to contact me send me an e-mail to viic@tutanota.com!
 
   
