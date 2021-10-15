@@ -8,10 +8,8 @@
  
 <h1 align = "center">about me</h1>
 
-My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.
-
-I am currently studying hardly pentesting, C++ and Golang.
-
+My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.<br>
+I am currently studying hardly pentesting, C++ and Golang.<br>
 I would be really enthusiastic if you would like me to work in any of your projects, to contact me send me an e-mail to viic@tutanota.com!
 
   
@@ -22,30 +20,31 @@ I would be really enthusiastic if you would like me to work in any of your proje
 <p>&nbsp;<img align= "center" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" /></p>
 <hr>
  
-
   
+
+ 
   
 <h1 align = "center">social networks</h1>
 <br>
  ⠀
 <p align = "center">
-<a href="https://discord.gg/VGFF7gZHK2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137012074-f05e771b-5b39-4252-9687-2f53991f86e8.png" alt="viic-disc" height="30" width="30" /></a>
+<a href="https://discord.gg/VGFF7gZHK2" target="blank"><img align="center" src="" alt="viic-disc" height="30" width="35" /></a>
 ⠀
-<a href="https://twitter.com/viic_deb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137014268-66f3f63f-b4b1-4d1f-8fa3-901d424d8d2b.png" alt="viic-twit" height="30" width="30" /></a>
+<a href="https://twitter.com/viic_deb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511975-10854231-787e-4dbf-8191-b878cbdf1179.png" alt="viic-twit" /></a>
 ⠀
-<a href="https://es.stackoverflow.com/users/253252/viic" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021657-41ea14c1-d094-409e-9558-255fab342d42.png" alt="viic-stack" height="30" width="30" /></a>
+<a href="https://es.stackoverflow.com/users/253252/viic" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511941-b75246d4-a97a-4e37-8b91-b6b41baf88e4.png" alt="viic-stack" height="35" width="30" /></a>
 ⠀
-<a href="https://instagram.com/viiictor.5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021571-c6952fba-b9e2-4627-b590-9256a49029cf.png" alt="viic-ig" height="30" width="30" /></a>
+<a href="https://instagram.com/viiictor.5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511921-018548bb-00c2-4c7f-bcd2-df2388b77bf6.png" alt="viic-ig" height="30" width="30" /></a>
 ⠀
-<a href="https://www.youtube.com/channel/UCIdEbfX6Pl6q-SMFI_l0L9Q" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021596-fbf749b2-1ec0-4fd8-a314-0565dde66356.png" alt="viic-yt" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCIdEbfX6Pl6q-SMFI_l0L9Q" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137514470-55bb4daa-d627-4dfc-851b-b24a316ce963.png" alt="viic-yt" /></a>
 ⠀
-<a href="https://www.twitch.tv/viic_deb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021592-0022dd22-c686-4fc1-97a6-20c44842c7a5.png" alt="viic-twitch" height="30" width="30" /></a>
+<a href="https://www.twitch.tv/viic_deb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511960-8c6c274a-7dd6-4e70-83ad-74ef058a8c05.png" alt="viic-twitch" /></a>
 ⠀
-<a href="https://www.tiktok.com/@viic.deb?" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021590-1ea595b2-9c06-4db0-bb3c-2c3776faec12.png" alt="viic-tiktok" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@viic.deb?" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511952-3994e353-0882-45aa-a124-3c5c0475ffb3.png" alt="viic-tiktok" height="30" width="30" /></a>
 ⠀
-<a href="https://github.com/tt-viic/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021567-fe03b1a6-1800-4d6a-9dea-357dc67d00b9.png" alt="viic-gith" height="30" width="30" /></a>
+<a href="https://github.com/tt-viic/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511916-fd7c6e06-55d0-4839-bc62-e0be15113a6d.png" alt="viic-gith" /></a>
 ⠀
-<a href="https://open.spotify.com/user/216azmq5llxlo3zsmhnkwnodi?si=ba3112ac13374edb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137021583-67ec0129-6e6c-4f42-b193-2b07f34ee1f7.png" alt="viic-spoty" height="30" width="30" /></a>
+<a href="https://open.spotify.com/user/216azmq5llxlo3zsmhnkwnodi?si=ba3112ac13374edb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511933-b45c3410-2da3-45ef-be5b-d7c15b7c9531.png" alt="viic-spoty" height="30" width="30" /></a>
 </p>
 <br>
 
