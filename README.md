@@ -21,14 +21,11 @@ I would be really enthusiastic if you would like me to work in any of your proje
 <hr>
  
   
-
- 
-  
 <h1 align = "center">social networks</h1>
 <br>
  ⠀
 <p align = "center">
-<a href="https://discord.gg/VGFF7gZHK2" target="blank"><img align="center" src="" alt="viic-disc" height="30" width="35" /></a>
+<a href="https://discord.gg/VGFF7gZHK2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137643387-d145abc9-c187-4b5b-b3d7-722edbe3fecf.png" alt="viic-disc" height="30" width="53" /></a>
 ⠀
 <a href="https://twitter.com/viic_deb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78870476/137511975-10854231-787e-4dbf-8191-b878cbdf1179.png" alt="viic-twit" /></a>
 ⠀
