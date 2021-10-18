@@ -1,26 +1,33 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tt-viic&label=Profile%20views&color=7a93c4&style=flat" alt="tt-viic" /> </p>
+⠀<br>
+<img src="https://user-images.githubusercontent.com/78870476/137008700-2fe715d8-74a8-4a14-903a-b99ae14350f2.gif" alt="viic" align = "right" height="30" width="85" />
+<img src="https://komarev.com/ghpvc/?username=tt-viic&label=Profile%20views&color=7a93c4&style=flat" align="left" alt="tt-viic" />
+⠀<br>
 <hr>
-
-
-
-<h1 align = "center"> <img src="https://user-images.githubusercontent.com/78870476/137008700-2fe715d8-74a8-4a14-903a-b99ae14350f2.gif" alt="viic" />
- 
- 
+⠀<br>
 <h1 align = "center">about me</h1>
 
 My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.<br>
-I am currently studying hardly pentesting, C++ and Golang.<br>
+I am from Spain, Aragón where i live in a small cold village where I practice MTB and swimming.<br>
+I am currently hard working in pentesting, C++ and Golang.<br>
+
 I would be really enthusiastic if you would like me to work in any of your projects, to contact me send me an e-mail to viic@tutanota.com!
+⠀<br>
+⠀<br>
 
   
 <h1 align = "center">statics</h1>
  
-<p><img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact" alt="tt-viic" /></p>
-
-<p>&nbsp;<img align= "center" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" /></p>
-<hr>
- 
-  
+<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact" alt="tt-viic" height="200" width="400" />
+<img align= "left" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&locale=en" alt="tt-viic" height="200" width="400" />
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
+⠀<br>
 <h1 align = "center">social networks</h1>
 <br>
  ⠀
