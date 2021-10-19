@@ -4,7 +4,7 @@
 ⠀<br>
 <hr>
 ⠀<br>
-<h1 align = "center">about me</h1>
+<h1 align = "center">About me</h1>
 
 My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.<br>
 I am from Spain, Aragón where i live in a small cold village where I practice MTB and swimming.<br>
@@ -15,7 +15,7 @@ I would be really enthusiastic if you would like me to work in any of your proje
 ⠀<br>
 
   
-<h1 align = "center">statics</h1>
+<h1 align = "center">Statics</h1>
  
 <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact&theme=nord" alt="tt-viic" height="200" width="400" />
 <img align= "left" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&theme=nord" alt="tt-viic" height="200" width="400" />
@@ -28,7 +28,7 @@ I would be really enthusiastic if you would like me to work in any of your proje
 ⠀<br>
 ⠀<br>
 ⠀<br>
-<h1 align = "center">social networks</h1>
+<h1 align = "center">Social networks</h1>
 <br>
  ⠀
 <p align = "center">
