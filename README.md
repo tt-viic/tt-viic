@@ -16,10 +16,15 @@ I would be really enthusiastic if you would like me to work in any of your proje
 
   
 <h1 align = "center">Statics</h1>
- 
-<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact&theme=nord" alt="tt-viic" height="200" width="400" />
-<img align= "left" src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&theme=nord" alt="tt-viic" height="200" width="400" />
-
+<p align = "center">
+<a href="https://github.com/tt-viic/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-viic&show_icons=true&locale=en&layout=compact&theme=nord" alt="tt-viic" height="200" width="400" />
+</a>
+⠀
+<a href="https://github.com/tt-viic/">
+  <img src="https://github-readme-stats.vercel.app/api?username=tt-viic&show_icons=true&theme=nord" alt="tt-viic" height="200" width="400" />
+</a>
+</p>
 
 
 <br><h1 align = "center">Social networks</h1>
