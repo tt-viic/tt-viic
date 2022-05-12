@@ -54,4 +54,4 @@ I would be really enthusiastic if you would like me to work in any of your proje
  ⠀
  ⠀
  ⠀
-<p align = "center">© 2021⠀⠀viic <3</p>
+<p align = "center">© 2022⠀⠀viic <3</p>
