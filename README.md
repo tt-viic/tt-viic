@@ -6,11 +6,11 @@
 ⠀<br>
 <h1 align = "center">About me</h1>
 
-My name is Víctor, however you will find me in the bast majority of social media websites as **viic**.<br>
+My name is Víctor, however you will find me as **viic** on social media websites.<br>
 I am from Spain, Aragón where i live in a small cold village where I practice MTB and swimming.<br>
-I am currently hard working in pentesting, C++ and Golang.<br>
+I am currently hard working in pentesting, C++ and Golang, I am currently opposing to firefighter so I am quite out here.<br>
 
-I would be really enthusiastic if you would like me to work in any of your projects, to contact me send me an e-mail to viic@tutanota.com
+I am willing to work in any of your projects, if you want to work with me, let me know it sending an e-mail to viic@tutanota.com
 ⠀<br>
 ⠀<br>
 
