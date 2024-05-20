@@ -10,7 +10,7 @@ My name is Víctor, however you will find me as **viic** on social media website
 I am from Spain, Aragón where i live in a small cold village where I practice MTB and swimming.<br>
 I am currently hard working in pentesting, C++ and Golang, I am currently opposing to firefighter so I am quite out here.<br>
 
-I am willing to work in any of your projects, if you want to work with me, let me know it sending an e-mail to viic@tutanota.com
+I am willing to work in any of your projects, if you want to work with me, let me know it sending an e-mail to (currently no available)
 ⠀<br>
 ⠀<br>
 
